@@ -3,6 +3,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pashtrik-mazreku-3082a7270/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/pashtrik-mazreku-3082a7270/"/></a>
+<a href="https://www.hackerrank.com/profile/PashtrikMazreku" traget="blank"/>
 </p>
 </h3>
 
