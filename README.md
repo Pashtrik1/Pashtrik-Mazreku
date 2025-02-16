@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Pashtrik</h1>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/pashtrik-mazreku-3082a7270/" target="_blank">
@@ -12,7 +10,7 @@
 
 </h3>
 
-<h4 align="center"> 🛠️ Languages and Tools </h4>
+<h4 align="center"> Tech Stack </h4>
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -36,13 +34,9 @@
   
 </p>
 
-### 📊 GitHub Stats:
+<h2 align="center">General</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pashtrik1&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Pashtrik's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pashtrik1&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="Pashtrik's GitHub streak stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pashtrik1&theme=dark&hide_border=false" alt="Pashtrik's GitHub streak stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pashtrik1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Pashtrik's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pashtrik1&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="Pashtrik's top languages" />
 </p>
-
----
